@@ -1,4 +1,5 @@
 {
-    "name": "mael/test-github-actions",
+    "name": "mabre/test-github-actions",
+    "description": "Project to test github actions",
     "require": {}
 }
