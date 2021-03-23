@@ -1,5 +1,7 @@
 {
     "name": "mabre/test-github-actions",
     "description": "Project to test github actions",
-    "require": {}
+    "require": {
+        "symfony/http-foundation": "^5.2"
+    }
 }
